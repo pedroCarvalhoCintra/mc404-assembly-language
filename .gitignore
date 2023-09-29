@@ -1,0 +1,5 @@
+#Ignore all files with '.o' and '.x' extensions. 
+#Scope is all repo folders.
+*.o
+*.x
+
